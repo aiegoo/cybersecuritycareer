@@ -1,0 +1,7 @@
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+Name:	ucon.synology.me
+Address: 121.176.153.117
+
